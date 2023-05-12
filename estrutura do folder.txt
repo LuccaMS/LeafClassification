@@ -1,0 +1,1 @@
+adicionar uma pasta chamada data com uma subpasta chamada imgs e guardar todas as imagens dentro de uma outra chamada "train_images" antes de rodar o código separate
